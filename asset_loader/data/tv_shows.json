@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Last of Us",
+    "releaseYear": 2023,
+    "moviePath": "The Last of Us (2023)",
+    "score1": "7.89",
+    "score2": "8.81"
+  },
+  {
+    "title": "Scavengers Reign",
+    "releaseYear": 2023,
+    "moviePath": "Scavengers Reign (2023)",
+    "score1": "7.35",
+    "score2": "7.41"
+  },
+  {
+    "title": "Shogun",
+    "releaseYear": 2024,
+    "moviePath": "Shogun (2024)",
+    "score1": "8.41",
+    "score2": "9.01"
+  }
+]

@@ -1,3 +1,6 @@
+public/assets/movies/*
+*.pyc
+
 # Logs
 logs
 *.log

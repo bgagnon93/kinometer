@@ -1,0 +1,457 @@
+[
+  {
+    "title": "Raw",
+    "releaseYear": 2016,
+    "moviePath": "Raw (2016)",
+    "score1": "8.65",
+    "score2": "7.81"
+  },
+  {
+    "title": "The Boy and the Beast",
+    "releaseYear": 2015,
+    "moviePath": "The Boy and the Beast (2015)",
+    "score1": "6.38",
+    "score2": "5.41"
+  },
+  {
+    "title": "Nightcrawler",
+    "releaseYear": 2014,
+    "moviePath": "Nightcrawler (2014)",
+    "score1": "7.01",
+    "score2": "8.41"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "releaseYear": 1989,
+    "moviePath": "Kiki's Delivery Service (1989)",
+    "score1": "6.12",
+    "score2": "5.61"
+  },
+  {
+    "title": "Warrior",
+    "releaseYear": 2011,
+    "moviePath": "Warrior (2011)",
+    "score1": "6.35",
+    "score2": "5.01"
+  },
+  {
+    "title": "Lawless",
+    "releaseYear": 2012,
+    "moviePath": "Lawless (2012)",
+    "score1": "6.90",
+    "score2": "6.71"
+  },
+  {
+    "title": "District 9",
+    "releaseYear": 2009,
+    "moviePath": "District 9 (2009)",
+    "score1": "8.99",
+    "score2": "6.61"
+  },
+  {
+    "title": "Arrival",
+    "releaseYear": 2016,
+    "moviePath": "Arrival (2016)",
+    "score1": "5.50",
+    "score2": "7.91"
+  },
+  {
+    "title": "The Witch",
+    "releaseYear": 2015,
+    "moviePath": "The Witch (2015)",
+    "score1": "6.05",
+    "score2": "6.21"
+  },
+  {
+    "title": "Bo Burnham: Inside",
+    "releaseYear": 2021,
+    "moviePath": "Bo Burnham: Inside (2021)",
+    "score1": "5.01",
+    "score2": "6.31"
+  },
+  {
+    "title": "The Greasy Strangler",
+    "releaseYear": 2016,
+    "moviePath": "The Greasy Strangler (2016)",
+    "score1": ":(",
+    "score2": "0"
+  },
+  {
+    "title": "JoJo Rabbit",
+    "releaseYear": 2019,
+    "moviePath": "JoJo Rabbit (2019)",
+    "score1": "6.21",
+    "score2": "6.41"
+  },
+  {
+    "title": "Let the Right One In",
+    "releaseYear": 2008,
+    "moviePath": "Let the Right One In (2008)",
+    "score1": "4.65",
+    "score2": "4.51"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "releaseYear": 1988,
+    "moviePath": "My Neighbor Totoro (1988)",
+    "score1": "5.41",
+    "score2": "3.81"
+  },
+  {
+    "title": "Minority Report",
+    "releaseYear": 2002,
+    "moviePath": "Minority Report (2002)",
+    "score1": "6.20",
+    "score2": "2.31"
+  },
+  {
+    "title": "Justice League",
+    "releaseYear": 2017,
+    "moviePath": "Justice League (2017)",
+    "score1": "1.25",
+    "score2": "0"
+  },
+  {
+    "title": "Ghost in the Shell",
+    "releaseYear": 1995,
+    "moviePath": "Ghost in the Shell (1995)",
+    "score1": "8.02",
+    "score2": "8.01"
+  },
+  {
+    "title": "The Suicide Squad",
+    "releaseYear": 2021,
+    "moviePath": "The Suicide Squad (2021)",
+    "score1": "7.51",
+    "score2": "7.51"
+  },
+  {
+    "title": "Phantom Thread",
+    "releaseYear": 2017,
+    "moviePath": "Phantom Thread (2017)",
+    "score1": "4.34",
+    "score2": "3.21"
+  },
+  {
+    "title": "Ghost in the Shell 2: Innocence",
+    "releaseYear": 2004,
+    "moviePath": "Ghost in the Shell 2: Innocence (2004)",
+    "score1": "2.50",
+    "score2": "0"
+  },
+  {
+    "title": "Princess Mononoke",
+    "releaseYear": 1997,
+    "moviePath": "Princess Mononoke (1997)",
+    "score1": "7.25",
+    "score2": "7.81"
+  },
+  {
+    "title": "The Loved Ones",
+    "releaseYear": 2009,
+    "moviePath": "The Loved Ones (2009)",
+    "score1": "7.11",
+    "score2": "6.11"
+  },
+  {
+    "title": "The Matrix",
+    "releaseYear": 1999,
+    "moviePath": "The Matrix (1999)",
+    "score1": "8.21",
+    "score2": "8.01"
+  },
+  {
+    "title": "Eighth Grade",
+    "releaseYear": 2018,
+    "moviePath": "Eighth Grade (2018)",
+    "score1": "5",
+    "score2": "6.21"
+  },
+  {
+    "title": "BlacKkKlansman",
+    "releaseYear": 2018,
+    "moviePath": "BlacKkKlansman (2018)",
+    "score1": "8.15",
+    "score2": "8.71"
+  },
+  {
+    "title": "Dr. Strangelove",
+    "releaseYear": 1964,
+    "moviePath": "Dr. Strangelove (1964)",
+    "score1": "7.50",
+    "score2": "8.21"
+  },
+  {
+    "title": "Pig",
+    "releaseYear": 2021,
+    "moviePath": "Pig (2021)",
+    "score1": "8.42",
+    "score2": "7.81"
+  },
+  {
+    "title": "Hereditary",
+    "releaseYear": 2018,
+    "moviePath": "Hereditary (2018)",
+    "score1": "6.89",
+    "score2": "8.01"
+  },
+  {
+    "title": "Venom",
+    "releaseYear": 2018,
+    "moviePath": "Venom (2018)",
+    "score1": "4.01",
+    "score2": "0"
+  },
+  {
+    "title": "Whiplash",
+    "releaseYear": 2014,
+    "moviePath": "Whiplash (2014)",
+    "score1": "7.12",
+    "score2": "8.31"
+  },
+  {
+    "title": "Mandy",
+    "releaseYear": 2018,
+    "moviePath": "Mandy (2018)",
+    "score1": "3.14",
+    "score2": "3.41"
+  },
+  {
+    "title": "Seven Samurai",
+    "releaseYear": 1954,
+    "moviePath": "Seven Samurai (1954)",
+    "score1": "5.92",
+    "score2": "5.11"
+  },
+  {
+    "title": "I Don't Feel at Home in This World Anymore",
+    "releaseYear": 2017,
+    "moviePath": "I Don't Feel at Home in This World Anymore (2017)",
+    "score1": "6.54",
+    "score2": "4.91"
+  },
+  {
+    "title": "Inherent Vice",
+    "releaseYear": 2014,
+    "moviePath": "Inherent Vice (2014)",
+    "score1": "4.91",
+    "score2": "3.21"
+  },
+  {
+    "title": "Honey Boy",
+    "releaseYear": 2019,
+    "moviePath": "Honey Boy (2019)",
+    "score1": "8.89",
+    "score2": "8.01"
+  },
+  {
+    "title": "Peanut Butter Falcon",
+    "releaseYear": 2019,
+    "moviePath": "Peanut Butter Falcon (2019)",
+    "score1": "6.15",
+    "score2": "5.01"
+  },
+  {
+    "title": "The Lighthouse",
+    "releaseYear": 2019,
+    "moviePath": "The Lighthouse (2019)",
+    "score1": "0",
+    "score2": "1.11"
+  },
+  {
+    "title": "Annihilation",
+    "releaseYear": 2018,
+    "moviePath": "Annihilation (2018)",
+    "score1": "6.52",
+    "score2": "6.91"
+  },
+  {
+    "title": "Ex Machina",
+    "releaseYear": 2014,
+    "moviePath": "Ex Machina (2014)",
+    "score1": "8.01",
+    "score2": "9.01"
+  },
+  {
+    "title": "DUNE Part 1",
+    "releaseYear": 2021,
+    "moviePath": "DUNE Part 1 (2021)",
+    "score1": "6.43",
+    "score2": "7.96"
+  },
+  {
+    "title": "Perfect Blue",
+    "releaseYear": 1997,
+    "moviePath": "Perfect Blue (1997)",
+    "score1": "6.91",
+    "score2": "4.01"
+  },
+  {
+    "title": "The Matrix: Reloaded",
+    "releaseYear": 2003,
+    "moviePath": "The Matrix: Reloaded (2003)",
+    "score1": "4.31",
+    "score2": "1.41"
+  },
+  {
+    "title": "The Matrix: Revolutions",
+    "releaseYear": 2003,
+    "moviePath": "The Matrix: Revolutions (2003)",
+    "score1": "5.31",
+    "score2": "3.81"
+  },
+  {
+    "title": "The Matrix: Resurrections",
+    "releaseYear": 2021,
+    "moviePath": "The Matrix: Resurrections (2021)",
+    "score1": "2.31",
+    "score2": "1.71"
+  },
+  {
+    "title": "The Power of the Dog",
+    "releaseYear": 2021,
+    "moviePath": "The Power of the Dog (2021)",
+    "score1": "1.50",
+    "score2": "1.11"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "releaseYear": 2022,
+    "moviePath": "Everything Everywhere All at Once (2022)",
+    "score1": "2*4.20",
+    "score2": "7.01"
+  },
+  {
+    "title": "The Northman",
+    "releaseYear": 2022,
+    "moviePath": "The Northman (2022)",
+    "score1": "4.81",
+    "score2": "6.91"
+  },
+  {
+    "title": "Adaptation",
+    "releaseYear": 2002,
+    "moviePath": "Adaptation (2002)",
+    "score1": "8.21",
+    "score2": "8.41"
+  },
+  {
+    "title": "The Menu",
+    "releaseYear": 2022,
+    "moviePath": "The Menu (2022)",
+    "score1": "7.12",
+    "score2": "6.31"
+  },
+  {
+    "title": "The Unbearable Weight of Massive Talent",
+    "releaseYear": 2022,
+    "moviePath": "The Unbearable Weight of Massive Talent (2022)",
+    "score1": "4.35",
+    "score2": "2.21"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "releaseYear": 2023,
+    "moviePath": "John Wick: Chapter 4 (2023)",
+    "score1": "5.41",
+    "score2": "4.11"
+  },
+  {
+    "title": "Cocaine Bear",
+    "releaseYear": 2023,
+    "moviePath": "Cocaine Bear (2023)",
+    "score1": "B.ER",
+    "score2": "W.PF"
+  },
+  {
+    "title": "Enemy",
+    "releaseYear": 2013,
+    "moviePath": "Enemy (2013)",
+    "score1": "0.11",
+    "score2": "0"
+  },
+  {
+    "title": "Oppenheimer",
+    "releaseYear": 2023,
+    "moviePath": "Oppenheimer (2023)",
+    "score1": "6.85",
+    "score2": "6.31"
+  },
+  {
+    "title": "Dunkirk",
+    "releaseYear": 2017,
+    "moviePath": "Dunkirk (2017)",
+    "score1": "4.12",
+    "score2": "7.31"
+  },
+  {
+    "title": "DUNE Part 2",
+    "releaseYear": 2024,
+    "moviePath": "DUNE Part 2 (2024)",
+    "score1": "5.41",
+    "score2": "7.96"
+  },
+  {
+    "title": "Barbie",
+    "releaseYear": 2023,
+    "moviePath": "Barbie (2023)",
+    "score1": "6.21",
+    "score2": "6.31"
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "releaseYear": 2022,
+    "moviePath": "All Quiet on the Western Front (2022)",
+    "score1": "6.01",
+    "score2": "5.61"
+  },
+  {
+    "title": "Asteroid City",
+    "releaseYear": 2023,
+    "moviePath": "Asteroid City (2023)",
+    "score1": "5.45",
+    "score2": "3.91"
+  },
+  {
+    "title": "Nausicaa of the Valley of the Wind",
+    "releaseYear": 1984,
+    "moviePath": "Nausicaa of the Valley of the Wind (1984)",
+    "score1": "6.31",
+    "score2": "5.61"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "releaseYear": 2015,
+    "moviePath": "Mad Max: Fury Road (2015)",
+    "score1": "9.12",
+    "score2": "9.21"
+  },
+  {
+    "title": "Furiosa: A Mad Max Saga",
+    "releaseYear": 2024,
+    "moviePath": "Furiosa: A Mad Max Saga (2024)",
+    "score1": "5.68",
+    "score2": "6.01"
+  },
+  {
+    "title": "Sicario",
+    "releaseYear": 2015,
+    "moviePath": "Sicario (2015)",
+    "score1": "5.93",
+    "score2": "7.01"
+  },
+  {
+    "title": "Being John Malkovich",
+    "releaseYear": 1999,
+    "moviePath": "Being John Malkovich (1999)",
+    "score1": "4.89",
+    "score2": "3.21"
+  },
+  {
+    "title": "The Boy and the Heron",
+    "releaseYear": 2023,
+    "moviePath": "The Boy and the Heron (2023)",
+    "score1": "3.11",
+    "score2": "3.91"
+  }
+]
