@@ -453,5 +453,33 @@
     "moviePath": "The Boy and the Heron (2023)",
     "score1": "3.11",
     "score2": "3.91"
+  },
+  {
+    "title": "Nosferatu",
+    "releaseYear": 2023,
+    "moviePath": "Nosferatu (2024)",
+    "score1": "6.51",
+    "score2": "6.81"
+  },
+  {
+    "title": "In Bruges",
+    "releaseYear": 2023,
+    "moviePath": "In Bruges (2008)",
+    "score1": "9.51",
+    "score2": "9.41"
+  },
+  {
+    "title": "Shallow Grave",
+    "releaseYear": 1994,
+    "moviePath": "Shallow Grave (1994)",
+    "score1": "7.05",
+    "score2": "2.81"
+  },
+  {
+    "title": "Late Night with the Devil",
+    "releaseYear": 2023,
+    "moviePath": "Late Night with the Devil (2023)",
+    "score1": "3.89",
+    "score2": "3.91"
   }
 ]

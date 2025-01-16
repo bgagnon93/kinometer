@@ -812,7 +812,7 @@ export default [
     "title": "Eighth Grade",
     "releaseYear": 2018,
     "moviePath": "Eighth Grade (2018)",
-    "score1": "5",
+    "score1": "5.00",
     "score2": "6.21",
     "backdrops": [
       "backdrop0.jpg",
@@ -2520,6 +2520,153 @@ export default [
     ],
     "posters": [
       "poster0.jpg"
+    ]
+  },
+  {
+    "title": "Nosferatu",
+    "releaseYear": 2023,
+    "moviePath": "Nosferatu (2024)",
+    "score1": "6.51",
+    "score2": "6.81",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+      "logo3.png",
+      "logo4.png",
+      "logo5.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "In Bruges",
+    "releaseYear": 2023,
+    "moviePath": "In Bruges (2008)",
+    "score1": "9.51",
+    "score2": "9.41",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "Shallow Grave",
+    "releaseYear": 1994,
+    "moviePath": "Shallow Grave (1994)",
+    "score1": "7.05",
+    "score2": "2.81",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "Late Night with the Devil",
+    "releaseYear": 2023,
+    "moviePath": "Late Night with the Devil (2023)",
+    "score1": "3.89",
+    "score2": "3.91",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
     ]
   }
 ];
