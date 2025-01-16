@@ -2616,9 +2616,7 @@ export default [
       "backdrop9.jpg"
     ],
     "logos": [
-      "logo0.png",
-      "logo1.png",
-      "logo2.png",
+      "logo0.png"
     ],
     "posters": [
       "poster0.jpg",
@@ -2629,8 +2627,7 @@ export default [
       "poster5.jpg",
       "poster6.jpg",
       "poster7.jpg",
-      "poster8.jpg",
-      "poster9.jpg"
+      "poster8.jpg"
     ]
   },
   {
@@ -2647,14 +2644,13 @@ export default [
       "backdrop4.jpg",
       "backdrop5.jpg",
       "backdrop6.jpg",
-      "backdrop7.jpg",
-      "backdrop8.jpg",
-      "backdrop9.jpg"
+      "backdrop7.jpg"
     ],
     "logos": [
       "logo0.png",
       "logo1.png",
       "logo2.png",
+      "logo3.png",
     ],
     "posters": [
       "poster0.jpg",
