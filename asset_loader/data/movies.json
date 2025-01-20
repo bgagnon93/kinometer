@@ -164,7 +164,7 @@
     "title": "Eighth Grade",
     "releaseYear": 2018,
     "moviePath": "Eighth Grade (2018)",
-    "score1": "5",
+    "score1": "5.00",
     "score2": "6.21"
   },
   {
@@ -481,5 +481,19 @@
     "moviePath": "Late Night with the Devil (2023)",
     "score1": "3.89",
     "score2": "3.91"
+  },
+  {
+    "title": "Eraserhead",
+    "releaseYear": 1977,
+    "moviePath": "Eraserhead (1977)",
+    "score1": "0",
+    "score2": "1.21"
+  },
+  {
+    "title": "The Substance",
+    "releaseYear": 2024,
+    "moviePath": "The Substance (2024)",
+    "score1": "5.11",
+    "score2": "5.01"
   }
 ]

@@ -2361,6 +2361,219 @@ export default [
     ]
   },
   {
+    "title": "Nosferatu",
+    "releaseYear": 2023,
+    "moviePath": "Nosferatu (2024)",
+    "score1": "6.51",
+    "score2": "6.81",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+      "logo3.png",
+      "logo4.png",
+      "logo5.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "In Bruges",
+    "releaseYear": 2023,
+    "moviePath": "In Bruges (2008)",
+    "score1": "9.51",
+    "score2": "9.41",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "Shallow Grave",
+    "releaseYear": 1994,
+    "moviePath": "Shallow Grave (1994)",
+    "score1": "7.05",
+    "score2": "2.81",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg"
+    ]
+  },
+  {
+    "title": "Late Night with the Devil",
+    "releaseYear": 2023,
+    "moviePath": "Late Night with the Devil (2023)",
+    "score1": "3.89",
+    "score2": "3.91",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+      "logo3.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "Eraserhead",
+    "releaseYear": 1977,
+    "moviePath": "Eraserhead (1977)",
+    "score1": "0",
+    "score2": "1.21",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
+    "title": "The Substance",
+    "releaseYear": 2024,
+    "moviePath": "The Substance (2024)",
+    "score1": "5.11",
+    "score2": "5.01",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png",
+      "logo2.png",
+      "logo3.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
     "title": "The Last of Us",
     "releaseYear": 2023,
     "moviePath": "The Last of Us (2023)",
@@ -2520,149 +2733,6 @@ export default [
     ],
     "posters": [
       "poster0.jpg"
-    ]
-  },
-  {
-    "title": "Nosferatu",
-    "releaseYear": 2023,
-    "moviePath": "Nosferatu (2024)",
-    "score1": "6.51",
-    "score2": "6.81",
-    "backdrops": [
-      "backdrop0.jpg",
-      "backdrop1.jpg",
-      "backdrop2.jpg",
-      "backdrop3.jpg",
-      "backdrop4.jpg",
-      "backdrop5.jpg",
-      "backdrop6.jpg",
-      "backdrop7.jpg",
-      "backdrop8.jpg",
-      "backdrop9.jpg"
-    ],
-    "logos": [
-      "logo0.png",
-      "logo1.png",
-      "logo2.png",
-      "logo3.png",
-      "logo4.png",
-      "logo5.png"
-    ],
-    "posters": [
-      "poster0.jpg",
-      "poster1.jpg",
-      "poster2.jpg",
-      "poster3.jpg",
-      "poster4.jpg",
-      "poster5.jpg",
-      "poster6.jpg",
-      "poster7.jpg",
-      "poster8.jpg",
-      "poster9.jpg"
-    ]
-  },
-  {
-    "title": "In Bruges",
-    "releaseYear": 2023,
-    "moviePath": "In Bruges (2008)",
-    "score1": "9.51",
-    "score2": "9.41",
-    "backdrops": [
-      "backdrop0.jpg",
-      "backdrop1.jpg",
-      "backdrop2.jpg",
-      "backdrop3.jpg",
-      "backdrop4.jpg",
-      "backdrop5.jpg",
-      "backdrop6.jpg",
-      "backdrop7.jpg",
-      "backdrop8.jpg",
-      "backdrop9.jpg"
-    ],
-    "logos": [
-      "logo0.png",
-      "logo1.png",
-      "logo2.png",
-    ],
-    "posters": [
-      "poster0.jpg",
-      "poster1.jpg",
-      "poster2.jpg",
-      "poster3.jpg",
-      "poster4.jpg",
-      "poster5.jpg",
-      "poster6.jpg",
-      "poster7.jpg",
-      "poster8.jpg",
-      "poster9.jpg"
-    ]
-  },
-  {
-    "title": "Shallow Grave",
-    "releaseYear": 1994,
-    "moviePath": "Shallow Grave (1994)",
-    "score1": "7.05",
-    "score2": "2.81",
-    "backdrops": [
-      "backdrop0.jpg",
-      "backdrop1.jpg",
-      "backdrop2.jpg",
-      "backdrop3.jpg",
-      "backdrop4.jpg",
-      "backdrop5.jpg",
-      "backdrop6.jpg",
-      "backdrop7.jpg",
-      "backdrop8.jpg",
-      "backdrop9.jpg"
-    ],
-    "logos": [
-      "logo0.png"
-    ],
-    "posters": [
-      "poster0.jpg",
-      "poster1.jpg",
-      "poster2.jpg",
-      "poster3.jpg",
-      "poster4.jpg",
-      "poster5.jpg",
-      "poster6.jpg",
-      "poster7.jpg",
-      "poster8.jpg"
-    ]
-  },
-  {
-    "title": "Late Night with the Devil",
-    "releaseYear": 2023,
-    "moviePath": "Late Night with the Devil (2023)",
-    "score1": "3.89",
-    "score2": "3.91",
-    "backdrops": [
-      "backdrop0.jpg",
-      "backdrop1.jpg",
-      "backdrop2.jpg",
-      "backdrop3.jpg",
-      "backdrop4.jpg",
-      "backdrop5.jpg",
-      "backdrop6.jpg",
-      "backdrop7.jpg"
-    ],
-    "logos": [
-      "logo0.png",
-      "logo1.png",
-      "logo2.png",
-      "logo3.png",
-    ],
-    "posters": [
-      "poster0.jpg",
-      "poster1.jpg",
-      "poster2.jpg",
-      "poster3.jpg",
-      "poster4.jpg",
-      "poster5.jpg",
-      "poster6.jpg",
-      "poster7.jpg",
-      "poster8.jpg",
-      "poster9.jpg"
     ]
   }
 ];
