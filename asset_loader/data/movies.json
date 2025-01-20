@@ -495,5 +495,12 @@
     "moviePath": "The Substance (2024)",
     "score1": "5.11",
     "score2": "5.01"
+  },
+  {
+    "title": "Her",
+    "releaseYear": 2013,
+    "moviePath": "Her (2013)",
+    "score1": "3.54",
+    "score2": "8.01"
   }
 ]

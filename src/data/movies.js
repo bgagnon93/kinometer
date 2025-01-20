@@ -2574,6 +2574,41 @@ export default [
     ]
   },
   {
+    "title": "Her",
+    "releaseYear": 2013,
+    "moviePath": "Her (2013)",
+    "score1": "3.54",
+    "score2": "8.01",
+    "backdrops": [
+      "backdrop0.jpg",
+      "backdrop1.jpg",
+      "backdrop2.jpg",
+      "backdrop3.jpg",
+      "backdrop4.jpg",
+      "backdrop5.jpg",
+      "backdrop6.jpg",
+      "backdrop7.jpg",
+      "backdrop8.jpg",
+      "backdrop9.jpg"
+    ],
+    "logos": [
+      "logo0.png",
+      "logo1.png"
+    ],
+    "posters": [
+      "poster0.jpg",
+      "poster1.jpg",
+      "poster2.jpg",
+      "poster3.jpg",
+      "poster4.jpg",
+      "poster5.jpg",
+      "poster6.jpg",
+      "poster7.jpg",
+      "poster8.jpg",
+      "poster9.jpg"
+    ]
+  },
+  {
     "title": "The Last of Us",
     "releaseYear": 2023,
     "moviePath": "The Last of Us (2023)",
