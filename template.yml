@@ -33,15 +33,19 @@ Resources:
         DefaultCacheBehavior:
           Compress: true
           ForwardedValues:
-            QueryString: false
+            QueryString: true
           TargetOriginId: !Sub '${AppName}-s3-bucket'
           ViewerProtocolPolicy: redirect-to-https
         DefaultRootObject: index.html
         CustomErrorResponses:
           - ErrorCachingMinTTL: 300
             ErrorCode: 403
-            ResponseCode: 404
-            ResponsePagePath: /error.html
+            ResponseCode: 200
+            ResponsePagePath: /index.html
+          - ErrorCachingMinTTL: 300
+            ErrorCode: 404
+            ResponseCode: 200
+            ResponsePagePath: /index.html
         Enabled: true
         HttpVersion: http2
         Origins:

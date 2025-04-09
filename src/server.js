@@ -3,12 +3,14 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
-app.use(express.static(path.join(__dirname, 'dist'))); // Serving the Vue app
+// Serve static files
+app.use(express.static(path.join(__dirname, '../dist')));
 
-app.get('/movie-folders', (req, res) => {
-  const movieDir = path.join(__dirname, 'src/assets/movies');
+// API endpoint to get movie folders
+app.get('/api/movie-folders', (req, res) => {
+  const movieDir = path.join(__dirname, '../public/assets/movies');
   fs.readdir(movieDir, (err, files) => {
     if (err) {
       return res.status(500).json({ error: 'Failed to read directories' });
@@ -17,6 +19,21 @@ app.get('/movie-folders', (req, res) => {
     const directories = files.filter(file => fs.statSync(path.join(movieDir, file)).isDirectory());
     res.json(directories);
   });
+});
+
+// Setup routes for different sorting endpoints
+const endpoints = ['bg', 'jw', 'title', 'year'];
+
+// Add routes for each endpoint
+endpoints.forEach(endpoint => {
+  app.get(`/${endpoint}`, (req, res) => {
+    res.sendFile(path.join(__dirname, '../dist/index.html'));
+  });
+});
+
+// Catch-all route to serve the Vue app for any other request
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../dist/index.html'));
 });
 
 app.listen(PORT, () => {
