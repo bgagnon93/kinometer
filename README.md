@@ -1,5 +1,18 @@
 # kinometer
 
+## Usage
+
+The following endpoints are supported:
+
+* https://kinometer.gagnonagon.com - random sorting
+* https://kinometer.gagnonagon.com/bg - sorting on Brian's scores (desc)
+* https://kinometer.gagnonagon.com/jw - sorting on Josh's scores (desc)
+* https://kinometer.gagnonagon.com/title - sorts on title
+* https://kinometer.gagnonagon.com/year - sorts on release year
+
+Add the query parameter `?order=asc` to reverse the order.
+* https://kinometer.gagnonagon.com/title?order=asc
+
 ## Project setup
 ```
 npm install
