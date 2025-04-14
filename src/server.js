@@ -22,7 +22,7 @@ app.get('/api/movie-folders', (req, res) => {
 });
 
 // Setup routes for different sorting endpoints
-const endpoints = ['bg', 'jw', 'title', 'year'];
+const endpoints = ['bg', 'jw', 'title', 'year', 'avg'];
 
 // Add routes for each endpoint
 endpoints.forEach(endpoint => {

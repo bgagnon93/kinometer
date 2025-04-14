@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div @click="nextMovie">
     <div class="app-container splash movie-splash">
       <MovieSplash
         :moviePath="randomMoviePath"
@@ -50,6 +50,7 @@ export default {
       remainingMovies: [], // Track movies not yet shown
       sortBy: 'random', // Default sort method
       sortOrder: 'desc', // Default sort order
+      autoplayInterval: null, // Store interval for autoplay
     }
   },
   methods: {
@@ -88,6 +89,20 @@ export default {
             return this.sortOrder === 'asc' 
               ? a.releaseYear - b.releaseYear 
               : b.releaseYear - a.releaseYear;
+          });
+          break;
+        case 'avg': // Sort by average of both scores
+          sortedList.sort((a, b) => {
+            // Handle non-numeric scores
+            const scoreA1 = parseFloat(a.score1) || 0;
+            const scoreA2 = parseFloat(a.score2) || 0;
+            const scoreB1 = parseFloat(b.score1) || 0;
+            const scoreB2 = parseFloat(b.score2) || 0;
+            
+            const avgA = (scoreA1 + scoreA2) / 2;
+            const avgB = (scoreB1 + scoreB2) / 2;
+            
+            return this.sortOrder === 'asc' ? avgA - avgB : avgB - avgA;
           });
           break;
         default: // Random sort (shuffle)
@@ -159,6 +174,16 @@ export default {
       ]).then(() => {
         this.isReady = true; // Set ready state to true after loading
       });
+    },
+    
+    // Go to next movie when clicked
+    nextMovie() {
+      // Reset the interval to prevent it from firing during transitions
+      clearInterval(this.autoplayInterval);
+      this.isReady = false; // Set not ready for transition
+      this.updateRandomMovie();
+      // Restart the interval
+      this.autoplayInterval = setInterval(this.updateRandomMovie, 5000);
     }
   },
   mounted() {
@@ -176,6 +201,8 @@ export default {
       this.sortBy = 'title';
     } else if (endpoint === 'year') {
       this.sortBy = 'year';
+    } else if (endpoint === 'avg') {
+      this.sortBy = 'avg';
     } else {
       this.sortBy = 'random';
     }
@@ -201,7 +228,7 @@ export default {
     
     // Start displaying movies
     this.updateRandomMovie();
-    setInterval(this.updateRandomMovie, 5000);
+    this.autoplayInterval = setInterval(this.updateRandomMovie, 5000);
   }
 }
 </script>
@@ -239,5 +266,10 @@ export default {
   .poster-splash {
     display: block; /* Show PosterSplash in portrait mode */
   }
+}
+
+/* Add cursor pointer to indicate clickability */
+div[class^="app-container"] {
+  cursor: pointer;
 }
 </style>
