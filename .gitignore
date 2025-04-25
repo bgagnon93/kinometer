@@ -1,3 +1,6 @@
+ignore/*
+terraform/.terraform.lock.hcl
+terraform/.terraform/*
 public/assets/movies/*
 *.pyc
 
